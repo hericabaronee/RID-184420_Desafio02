@@ -1,10 +1,15 @@
 # RID-184420_Desafio02
 
+ Como visualizar
+Acesse o projeto online aqui:
+👉 https://hericabaronee.github.io/RID-184420_Desafio02/
+
+Este projeto é um blog responsivo desenvolvido como parte do Desafio 01 da formação.
+
 # 🗂️ Board de Tarefas
 
 Uma aplicação web simples e intuitiva para **organizar tarefas** com etiquetas, marcação de concluído e persistência de dados via `localStorage`.  
 Desenvolvido com foco em usabilidade, responsividade e um design limpo.
-
 
 ## 💡 Funcionalidades
 
