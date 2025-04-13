@@ -5,7 +5,6 @@ Acesse o projeto online aqui:
 
 👉 https://hericabaronee.github.io/RID-184420_Desafio02/
 
-Este projeto é um blog responsivo desenvolvido como parte do Desafio 01 da formação.
 
 # 🗂️ Board de Tarefas
 
